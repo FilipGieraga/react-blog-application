@@ -113,8 +113,7 @@ function Features() {
               Thanks to Bootstrap 5 this website is fully responsive and the
               amount of CSS is highly reduced.
               <br />
-              Firebase configuration is not public and cannot be accessed. For
-              this project I used Realtime Database.
+              For this project I used Firebase Realtime Database.
               <br />
               With help of EmailJS you can send me an e-mail from contact form
               if you want.
@@ -163,8 +162,9 @@ function Features() {
                 <b>Links, Routes, Dynamic Routes & Fragments</b>
               </li>
             </ul>
-            <h2 className="text-center py-5">Thank you for reading and have a Great Day :)</h2>
-
+            <h2 className="text-center py-5">
+              Thank you for reading and have a Great Day :)
+            </h2>
           </div>
         </section>
       </div>

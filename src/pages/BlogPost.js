@@ -44,7 +44,7 @@ function BlogPost() {
 
     setLoading(false);
     // get single post by id
-  }, []);
+  }, [handle]);
   // shortData.createdDate = shortData.createdDate.split(",").reverse().join(" ");
   return (
     <Fragment>
